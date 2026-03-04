@@ -1,6 +1,15 @@
 # automate_camp_2026
 
+
 Kianureif
-Champ singel mak mak
+
+
+something
+
 Tee
+
+Kianureif
+
+test
+Champ singel mak mak
 
